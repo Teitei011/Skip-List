@@ -1,0 +1,1 @@
+./dicionario < 5.in > files.txt diff -q files.txt 5.out && go files.txt && go 5.out
